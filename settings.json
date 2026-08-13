@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": _LEGEND_1329.aternos.me,
+    "ip": _LEGEND_1329.aternos.me:20813,
     "port": 20813,
     "version": 26.2,
     "try-creative": false
