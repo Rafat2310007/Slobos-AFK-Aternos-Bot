@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -82.492,
+    "y": 68,
+    "z": 33.372
   },
   "utils": {
     "auto-auth": {
@@ -44,7 +44,7 @@
   "movement": {
     "enabled": true,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
